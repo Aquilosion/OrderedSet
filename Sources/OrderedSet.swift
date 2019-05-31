@@ -109,7 +109,7 @@ public struct OrderedSet<Element : Hashable> : Hashable, RandomAccessCollection,
 
 
 public func ==<T>(lhs: OrderedSet<T>, rhs: OrderedSet<T>) -> Bool {
-    return lhs.set == rhs.set
+    return lhs.array == rhs.array
 }
 
 
