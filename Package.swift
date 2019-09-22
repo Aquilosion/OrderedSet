@@ -6,8 +6,8 @@ let package = Package(
 	name: "OrderedSet",
 	products: [
 		.library(
-			name: "Freddy",
-			targets: ["Freddy"]
+			name: "OrderedSet",
+			targets: ["OrderedSet"]
 		),
 	],
 	targets: [
