@@ -95,6 +95,14 @@
 		A2C94F181C77CF150043535F /* Sources */ = {
 			isa = PBXGroup;
 			children = (
+				E1C82DE02337F7F7004C144F /* OrderedSet */,
+			);
+			path = Sources;
+			sourceTree = "<group>";
+		};
+		E1C82DE02337F7F7004C144F /* OrderedSet */ = {
+			isa = PBXGroup;
+			children = (
 				A2C94F381C77D7600043535F /* Functions.swift */,
 				A2C94F1B1C77CF150043535F /* Info.plist */,
 				A2C94F421C7927FC0043535F /* OrderedSet+Array.swift */,
@@ -103,7 +111,7 @@
 				A2C94F191C77CF150043535F /* OrderedSet.h */,
 				A2C94F301C77CF250043535F /* OrderedSet.swift */,
 			);
-			path = Sources;
+			path = OrderedSet;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
